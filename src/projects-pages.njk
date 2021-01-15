@@ -1,0 +1,43 @@
+---
+pagination:
+  data: projects
+  size: 1
+  alias: project
+permalink: "project/{{ project.title | slug }}/"
+layout: base.njk
+title: Another web project by Sam Squire
+---
+
+<div class="project__hero">
+  <h1 class="project-hero__title">{{ project.title }}</h1>
+  <h1 class="project-hero__sub">{{ project.subTitle }}</h1>
+  <div class="project-hero__tags">
+    {% for tag in project.tags %}
+      <span class="project-hero__tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
+  <span class="project-hero__gradient"></span>
+  <img class="project-hero__image" data-style="{{ project.title }}" src="/static/img/{{ project.image }}" alt="Project hero image">
+</div>
+
+<img
+  src="/static/img/ss__line.svg"
+  alt="Cubic Bezier Graphic"
+  class="line-img"
+/>
+
+{% for item in ["what", "how", "lessons", "results"] %}
+  <div class="project__section">
+    <div class="project-section__left">
+      <h2 class="project-section__title">{{ item | capitalize }}?</h2>
+      <span class="background-text background-text--centered">{{ item }}?</span>
+    </div>
+    <div class="project-section__right">
+      <p class="project-section__body">{{ project[item] }}</p>
+    </div>
+  </div>
+{% endfor %}
+
+<img src="/static/img/ss__line.svg" alt="Cubic Bezier Graphic" class="line-img line-img--is-flipped">
+
+{% include "footer.njk" %}

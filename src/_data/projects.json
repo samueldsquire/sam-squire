@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Sheersense",
+    "image": "ss__sheersense.jpg",
+    "subTitle": "Multi-tier e-commerce",
+    "tags": [
+      "Complete refactor",
+      "Bespoke solutions",
+      "Backend Development",
+      "Project management"
+    ],
+    "what": "The most in-depth and long standing project I have worked on. As an agency, my team and I provided a complete refactor of this site (excluding a re-design). Working in a consultancy capacity I personally helped the client understand their goals for growth and provided modular solutions that each proved valuable.",
+    "how": "We implemented a large number of bespoke features such as: multi-tiered e-commerce stores - users could setup their own store, hand-coded onboarding system, user lookup by location, bespoke notification system, hand coded WooCommerce reporting, bespoke onboarding rewards system, star rating algohythym and many more.",
+    "lessons": "Working in this role was very enjoyable and hugely succesful. Occasionally coding, predominatly understanding client challenges and working with my team to provide effecient solutions that came in on time and on budget.",
+    "results": "Total users increased, churn reduced, profitability increased - all by substancial amounts."
+  },
+  {
+    "title": "Andria Dartmouth",
+    "image": "ss__andria.jpg",
+    "subTitle": "Restaurant identity, website and presence",
+    "tags": [
+      "Branding & Identity",
+      "Culture",
+      "Web Development",
+      "Booking System",
+      "Menu Design",
+      "Signage"
+    ],
+    "what": "I spent most of my Summer working on this project after reduing the amount of work my agency was doing during the Spring.",
+    "how": "I was involved from the initial conception, through every stage of the development of the identity, culture and online presence.",
+    "lessons": "Shifting my normal paradigm and working on one project for a longer period definitely yielded good results.",
+    "results": "The restuarant quickly reached #1 on TripAdvidsor for restaurants in Dartmouth and remains there now. No mean feat given Dartmouth's history as a foodie hotspot."
+  },
+  {
+    "title": "Sam Squire",
+    "image": "ss__andria-headshot.jpg",
+    "subTitle": "Personal Site",
+    "tags": ["UI/UX Design", "Development", "CSS Animations"],
+    "what": "This very site! One of the most fun projects I have worked on. I gave myself a very short deadline. I spoke to a prospective employer 3 days before needing to deliver this project to them as materials to compliment my application.",
+    "how": "By creating a site that is simple but with some interesting features. The majority of the time on this project was spent on CSS animations and converting from a simple HTML site to an 11ty site deployed on Netlify.",
+    "lessons": "Happy with how this went all in all. Main lesson would be to spend a little longer researching teqhniques before committing. Since creating them I have found an article which could help with making the scrolling lists on the homepage smoother and more efficient.",
+    "results": "I'm pleased with this project overall. Really enjoying the design and the features I've created are a good starting point with room to be perfected over time."
+  },
+  {
+    "title": "Jimmy The Giant",
+    "image": "ss__jtg.jpg",
+    "flipped": true,
+    "subTitle": "Shopify Store",
+    "tags": ["UI/UX Design", "Front-End Development"],
+    "what": "A simple Shopify store for a contact in the parkour community.",
+    "how": "A hand coded Shopify theme based on a design I extended on from a logo and YouTube chamnnel.",
+    "lessons": "I started this project in WooCommerce then decided to change to Shopify for a better admin experience.",
+    "results": "The products are selling well every day. Sales were higher than target from the day of launch."
+  },
+  {
+    "title": "Luca Berardino",
+    "image": "ss__luca-berardino.jpg",
+    "flipped": true,
+    "subTitle": "Hand-rolled ordering system",
+    "tags": ["UI/UX Design", "Development"],
+    "what": "Created during the first lockdown to enable chef Luca Berardino's local area to order pizza kits online. The style of the system resembles Domino's Pizza though the branding works seamlessly with Luca's restaurant Andria Dartmouth.",
+    "how": "Using a bespoke cart builder, users were able to build their pizza kit. Selecting toppings, extras, desserts, drinks, etc.",
+    "lessons": "Reasonably easy to create a cart building system. Could definitely be used to develop other solutions.",
+    "results": "Consistent sales throughout lockdown. I was very pleased with results, as was the client."
+  }
+]
