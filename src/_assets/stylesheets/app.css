@@ -592,6 +592,7 @@ small,
 }
 .project-hero__tags {
   max-width: 25rem;
+  margin-bottom: 2rem;
 }
 .project-hero__tag {
   background-color: #f8e71c;
@@ -604,6 +605,14 @@ small,
   border-radius: 1rem;
   margin-bottom: 0.5rem;
   display: inline-block;
+}
+.project-hero__link {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.8rem;
+  letter-spacing: 0.05rem;
 }
 .project__section {
   display: flex;

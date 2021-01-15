@@ -3,6 +3,7 @@
     "title": "Sheersense",
     "image": "ss__sheersense.jpg",
     "subTitle": "Multi-tier e-commerce",
+    "link": "https://sheersense.com/",
     "tags": [
       "Complete refactor",
       "Bespoke solutions",
@@ -18,6 +19,7 @@
     "title": "Andria Dartmouth",
     "image": "ss__andria.jpg",
     "subTitle": "Restaurant identity, website and presence",
+    "link": "https://andriadartmouth.com/",
     "tags": [
       "Branding & Identity",
       "Culture",
@@ -46,6 +48,7 @@
     "image": "ss__jtg.jpg",
     "flipped": true,
     "subTitle": "Shopify Store",
+    "link": "https://jimmythegiant.co.uk/",
     "tags": ["UI/UX Design", "Front-End Development"],
     "what": "A simple Shopify store for a contact in the parkour community.",
     "how": "A hand coded Shopify theme based on a design I extended on from a logo and YouTube chamnnel.",
@@ -57,6 +60,7 @@
     "image": "ss__luca-berardino.jpg",
     "flipped": true,
     "subTitle": "Hand-rolled ordering system",
+    "link": "https://lucaberardino.com/",
     "tags": ["UI/UX Design", "Development"],
     "what": "Created during the first lockdown to enable chef Luca Berardino's local area to order pizza kits online. The style of the system resembles Domino's Pizza though the branding works seamlessly with Luca's restaurant Andria Dartmouth.",
     "how": "Using a bespoke cart builder, users were able to build their pizza kit. Selecting toppings, extras, desserts, drinks, etc.",

@@ -16,6 +16,9 @@ title: Another web project by Sam Squire
       <span class="project-hero__tag">{{ tag }}</span>
     {% endfor %}
   </div>
+  {% if project.link %}
+    <a href="{{ project.link }}" class="project-hero__link">See it live ➡</a>
+  {% endif %}
   <span class="project-hero__gradient"></span>
   <img class="project-hero__image" data-style="{{ project.title }}" src="/static/img/{{ project.image }}" alt="Project hero image">
 </div>
